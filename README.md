@@ -5,7 +5,7 @@
 Passionate about building robust applications and contributing to innovative solutions that solve real-world problems.
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=81F72E&background=FFFFFF00&center=true&width=435&lines=Abdelrahman+Anwar;Future+Computer+Engineer;Always+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=81F72E&background=FFFFFF00&center=true&width=435&lines=Future+Computer+Engineer;Always+learning)](https://git.io/typing-svg)
 
 ### 🎓 Education
 - 🏫 Studying Computer Engineering at Cairo University
