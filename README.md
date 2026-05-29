@@ -43,8 +43,8 @@
 | :--- | :--- | :--- |
 | **[Pipelined RISC Processor](https://github.com/abdelrahman-anwar-tech/Processor-Nova)** | `VHDL`, `ModelSim` | 5-stage pipelined CPU with dynamic branch prediction, data forwarding, and hazard detection. |
 | **[ARM Assembly GameBoy](https://github.com/gameboy-nova/nova-main)** | `ARM Assembly`, `STM32` | Custom handheld console with 6 games. Optimized memory & GPIO interfacing. *(2nd Place Winner)* |
-| **[Custom OS Scheduler](https://github.com/KarimMohamed010/os-scheduler)** | `C`, `Linux`, `POSIX` | Multi-level feedback queue scheduling simulator utilizing IPCs and synchronization with memory management. |
-| **[HeadMouse Assistive Tech](https://github.com/KarimMohamed010/gyro-mouse)** | `C/C++`, `I2C/SPI` | Hands-free cursor control using sensor fusion from gyroscopes/accelerometers for accessibility. |
+| **[Custom OS Scheduler](https://github.com/KarimMohamed010/os-scheduler)** | `C`, `Linux` | Multi-level feedback queue scheduling simulator utilizing IPCs and synchronization with memory management. |
+| **[HeadMouse Assistive Tech](https://github.com/KarimMohamed010/gyro-mouse)** | `C++` | Hands-free cursor control using sensor fusion from gyroscopes/accelerometers for accessibility. |
 | **[Therapy Center Resource Simulator](https://github.com/abdelrahman-anwar-tech/TherapyCenter)** | `C++`, `OOP`, `STL` | Room and equipment allocation engine using Priority Queues and different data structures. |
 | **[Culinary Platform iWannaEat](https://github.com/Abdallah-Tarek-prog/iWannaEat)** | `SQL`, `REST APIs` | Full-stack web application with normalized DB schemas for user dietary tracking and profiles. |
 
@@ -52,13 +52,20 @@
 
 ### 📊 GitHub Analytics
 
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-anwar-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-anwar-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://img.shields.io/github/stars/abdelrahman-anwar-tech?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=starship&logoColor=white&label=Stars&color=FFD700" alt="Stars" />
+  <img src="https://img.shields.io/badge/Total_Commits-500+-4CAF50?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman-anwar-tech&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Primary_Language-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware_Design-VHDL-009B3F?style=flat-square&logo=vhdl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Environment-Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=abdelrahman-anwar-tech&theme=tokyo-night&hide_border=true&border_radius=5" alt="GitHub Streak" />
 </p>
 
 ---
